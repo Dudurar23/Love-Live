@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to left, #DA57D8, white); /* Essa cor é a principal da Liella */
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #DA57D8;
+    width: 600px;
+    padding: 10px;
+}
+
+h1 {
+    color: #DA57D8;
+    text-align: center;
+}
+
+h2 {
+    color: #DA57D8;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    color: #6e196d;
+}
+
+dt {
+    color: #6e196d;
+}
+
+a {
+    color: #ff60fc;
+}
+
+img {
+    border-radius: 10px;
+}
